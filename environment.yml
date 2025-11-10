@@ -5,4 +5,4 @@ channels:
 dependencies:
   - xeus-python
   - datascience==0.18.1
-  - otter-grader==6.1.6
+  - otter-grader
