@@ -4,5 +4,5 @@ channels:
   - https://repo.prefix.dev/conda-forge
 dependencies:
   - xeus-python
-  - datascience
-  - otter-grader
+  - datascience==0.18.1
+  - otter-grader--6.1.6
