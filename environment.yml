@@ -6,4 +6,3 @@ dependencies:
   - ipython<9
   - xeus-python
   - datascience==0.18.1
-  - otter-grader
