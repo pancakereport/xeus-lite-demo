@@ -3,6 +3,7 @@ channels:
   - https://repo.prefix.dev/conda-forge
   - https://repo.prefix.dev/emscripten-forge-dev
 dependencies:
+  - ipython<9
   - xeus-python
   - datascience==0.18.1
   - otter-grader
