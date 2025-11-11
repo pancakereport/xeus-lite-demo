@@ -7,5 +7,5 @@ dependencies:
   - xeus-python
   - datascience==0.18.1
   - otter-grader-base
-  - numpy==2.26
+  - numpy==2.2.6
   - scipy==1.14.1
